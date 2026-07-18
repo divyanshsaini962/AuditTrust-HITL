@@ -1,0 +1,6 @@
+{
+  "name": "AI Lease Auditor",
+  "description": "Enterprise platform for AI-powered lease compliance auditing with Human-in-the-Loop (HITL) verification and legally defensible ledger tracing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
